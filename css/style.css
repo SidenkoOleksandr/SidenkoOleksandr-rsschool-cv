@@ -56,15 +56,16 @@ section.education {
 }
 
 footer {
+  height: 100px;
   display: flex;
-  flex-direction: row;
+  /* flex-direction: row; */
   justify-content: space-between;
   align-items: center;
   background: #333;
 }
 
 footer > a > img {
-  width: 25%;
+  width: 20%;
 }
 
 footer > a {
