@@ -2,9 +2,9 @@
 
 ## Contacts:
 
-- sidoj85@gmail.com
-- Discord username Oleksandr#0355
-
+- E-mail: <sidoj85@gmail.com>
+- GitHub: [SidenkoOleksandr](https://github.com/SidenkoOleksandr)
+- Discord username: [Oleksandr(@SidenkoOleksandr)](https://discordapp.com/users/893181805606338630/)
 ---
 
 > Human capital is the best of the best capital in The WORLD.
@@ -29,7 +29,7 @@ _Hard-skills:_
 1. Git
 1. PHP
 
-_Experience:_ https://rolling-scopes-school.github.io/sidenkooleksandr-JSFEPRESCHOOL/js30-tic-tac-toe/
+_Experience:_ [tic-tac-toe project](https://rolling-scopes-school.github.io/sidenkooleksandr-JSFEPRESCHOOL/js30-tic-tac-toe/)
 
 _Examples of Code:_ 
 
