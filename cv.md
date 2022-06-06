@@ -7,7 +7,7 @@
 
 ---
 
-> Human capital is the best capital.
+> Human capital is the best of the best capital in The WORLD.
 
 _My goal_ is to improve my knowledge and skills.
 
@@ -29,24 +29,26 @@ _Hard-skills:_
 1. Git
 1. PHP
 
-_Experience:_ GeekHub Frontend and CMS Drupal.
+_Experience:_ https://rolling-scopes-school.github.io/sidenkooleksandr-JSFEPRESCHOOL/js30-tic-tac-toe/
 
-_Examples of Code:_ https://github.com/SidenkoOleksandr
+_Examples of Code:_ 
 
-    function insertionSort($unsortedArr) {
-        $array = $unsortedArr;
-        $n = count($array);
-        for ($i = 1; $i < $n; $i++) {
-            $val = $array[$i];
-            $k = $i;
-            while (($k > 0) && ($array[$k - 1] > $val)) {
-                $array[$k] = $array[$k - 1];
-                $k = $k - 1;
-            }
-            $array[$k] = $val;
-        }
-        return $array;
-    }
+```js
+function insertionSort($unsortedArr) {
+$array = $unsortedArr;
+$n = count($array);
+or ($i = 1; $i < $n; $i++) {
+$val = $array[$i];
+$k = $i;
+while (($k > 0) && ($array[$k - 1] > $val)) {
+$array[$k] = $array[$k - 1];
+$k = $k - 1;
+}
+$array[$k] = $val;
+}
+return $array;
+}
+```    
 
 _Education:_  
 Institute of Radio Electronics, National Academy for Public Administration.
