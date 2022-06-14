@@ -77,14 +77,13 @@
       <section class="examples">
         <h3>Examples of Code:</h3>
         <pre>
-              <code>
                 function insertionSort(unsortedArr) {
                   let array = unsortedArr;
                   let n = count(array);
-                  for (let i = 1; i < n; i++) {
+                  for (let i=1; i &lt; n; i++) {
                       let current = array[i];
                       let k = i;
-                      while ((k > 0) && (array[k - 1] > current)) {
+                      while ((k &gt; 0) && (array[k - 1] &gt; current)) {
                           array[k] = array[k - 1];
                           k = k - 1;
                       }
@@ -92,7 +91,7 @@
                   }
                   return array;
                 }
-              </code>
+              
             </pre>
       </section>
       <section class="education">
