@@ -3,11 +3,14 @@
 .content-container {
   max-width: 1000px;
   width: 100%;
+  padding: 10px 50px;
   margin: 0 auto;
+  background-color: rgb(174, 180, 178);
 }
 
 body {
   margin: 0;
+  overflow-x: hidden;
 }
 
 /* Typography */
@@ -26,7 +29,8 @@ section.strengths,
 section.hard-skills,
 section.experience,
 section.education,
-section.examples {
+section.examples,
+section.english {
   font: normal 16px "Helvetica Neue", sans-serif;
   line-height: 1.5;
   color: #333;
@@ -40,19 +44,19 @@ section.examples {
   height: 50%;
 }
 
-section.contact {
-  display: block;
-  float: right;
-  width: 30%;
+section.contact,
+.examples {
+  display: flex;
+  justify-content: center;
+}
+section.goal {
+  text-align: center;
 }
 
-section.strengths,
-section.hard-skills,
-section.experience,
-section.education {
-  display: inline-block;
-  margin-left: -5px;
-  width: 25%;
+.skills-wrapper,
+.education-wrapper {
+  display: flex;
+  justify-content: space-around;
 }
 
 footer {
